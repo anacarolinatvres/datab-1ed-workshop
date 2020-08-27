@@ -1,2 +1,2 @@
-# datab-1ed-workshop
+# Dasboard Análise Comercial - Datab
 Repositório da análise comercial feito na 1º edição do workshop de Power BI no canal do youtube DATAB.
